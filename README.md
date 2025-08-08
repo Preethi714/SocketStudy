@@ -81,7 +81,8 @@ s.send("acknowledgement recived from the server".encode())
 ```
 ## Output:
 ## Client
-<img width="1376" height="168" alt="Screenshot 2025-08-08 140140" src="https://github.com/user-attachments/assets/822a07e5-0b59-45bd-afe2-3e5bda8acf99" />
+<img width="1361" height="159" alt="Screenshot 2025-08-08 140213" src="https://github.com/user-attachments/assets/f5da7377-fa0d-4ba4-8732-ab982709a851" />
+
 ## Server
 <img width="1376" height="168" alt="Screenshot 2025-08-08 140140" src="https://github.com/user-attachments/assets/96f71b9b-6829-4e77-b876-ce21338723ee" />
 
